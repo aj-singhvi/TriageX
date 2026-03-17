@@ -1,0 +1,15 @@
+# Exclude embedded Python runtime
+Tools/Python/
+
+# Exclude ML models and datasets
+Scripts/toolkit/*.joblib
+Scripts/toolkit/datasets/*
+
+# Exclude generated reports
+Scripts/Reports/
+
+# Exclude other output files
+*.pdf
+*.sha256
+*.html
+*.json

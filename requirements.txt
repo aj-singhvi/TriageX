@@ -1,0 +1,10 @@
+psutil
+jinja2
+xhtml2pdf
+matplotlib
+scikit-learn
+joblib
+pandas
+numpy
+requests
+cpuinfo
