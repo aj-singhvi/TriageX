@@ -102,11 +102,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
-## License
-
-[MIT License](LICENSE.txt)
-
----
 
 ## Disclaimer
 
